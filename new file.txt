@@ -2,3 +2,4 @@ file content
 new line
 second new line.
 and one more.
+more
